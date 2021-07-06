@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoLMaGExE
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python, django, html, css
-- 💞️ I’m looking to collaborate on some company
+- 💞️ I’m looking for interesting work
 - 📫 How to reach me email: LaLMaGExE@gmail.com
 
 <!---
