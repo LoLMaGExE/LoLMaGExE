@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoLMaGExE
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning python, django, html, css
+- 🌱 I’m currently learning ReactJS, NodeJS, JavaScript, python, django, html, css
 - 💞️ I’m looking for interesting work
 - 📫 How to reach me email: LaLMaGExE@gmail.com
 
