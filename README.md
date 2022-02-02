@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoLMaGExE
+- 👋 Hi, I’m @LoLMaGExE (Alex)
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning ReactJS, NodeJS
 - 💞️ I enjoy programming
