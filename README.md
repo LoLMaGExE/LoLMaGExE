@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoLMaGExE (Alex)
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning ReactJS, NodeJS
-- 💞️ I enjoy programming
+- 🌱 I’m currently learning: ReactJS, NodeJS,
+- 💞️ I enjoy creating something cool
 - 📫 How to reach me email: LoLMaGExE@gmail.com
 
 <!---
