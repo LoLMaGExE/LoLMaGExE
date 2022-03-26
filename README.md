@@ -5,7 +5,7 @@
 - 📫 How to reach me email: LoLMaGExE@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksiiCherevan)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiCherevan&layout=compact&langs_count=8)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiCherevan&layout=compact&langs_count=3)]()
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksiiCherevan&repo=simple-cafe)](https://github.com/OleksiiCherevan/simple-cafe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OleksiiCherevan&repo=simple-cafe)](https://github.com/OleksiiCherevan/simple-cafe)
