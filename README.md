@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LoLMaGExE (Alex)
+- 👋 Hi, I’m @OleksiiCherevan (Alex)
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning: ReactJS, NodeJS,
 - 💞️ I enjoy creating something cool
-- 📫 How to reach me email: LoLMaGExE@gmail.com
+- 📫 How to reach me email: OleksiiCherevan@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksiiCherevan)](https://github.com/OleksiiCherevan/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiCherevan&layout=compact&langs_count=3)](https://github.com/OleksiiCherevan/)
