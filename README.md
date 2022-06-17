@@ -30,9 +30,10 @@
 - 🖥 &nbsp;
    ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   <br/>
-
+#
+https://github-readme-streak-stats.herokuapp.com/?user=OleksiiCherevan&theme=dark
+#
 <a href="https://github.com/OleksiiCherevan">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OleksiiCherevan&show_icons=true" alt="GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksiiCherevan&layout=compact&langs_count=3&show_icons=true" alt="Top Langs"/>
 </a>
