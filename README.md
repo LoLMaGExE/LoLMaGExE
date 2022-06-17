@@ -30,6 +30,7 @@
 - 🖥 &nbsp;
    ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   <br/>
+  <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OleksiiCherevan&theme=dark)](https://git.io/streak-stats)
 </br>
 <a href="https://github.com/OleksiiCherevan">
