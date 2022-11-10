@@ -1,10 +1,10 @@
-# Hey there! I'm Alex [portfolio page](https://oleksiicherevan.github.io/)
+# Hey there! I'm Alex [(portfolio page)](https://oleksiicherevan.github.io/)
 
 <h3> 😺 &nbsp;About Me </h3>
 
 - 📖 &nbsp; Exploring new technologies
 - 🌍 &nbsp; Studing foreign languages
-- 👨‍💻 &nbsp; I`m currently working with frontend
+- 👨‍💻 &nbsp; Currently working with frontend
 - 🚀 &nbsp; Learning more about react ecosystem
 
 
