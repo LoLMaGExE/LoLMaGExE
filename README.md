@@ -1,4 +1,4 @@
-# Hey there! I'm Alex [portfolio]("https://oleksiicherevan.github.io/")
+# Hey there! I'm Alex [portfolio page](https://oleksiicherevan.github.io/)
 
 <h3> 😺 &nbsp;About Me </h3>
 
