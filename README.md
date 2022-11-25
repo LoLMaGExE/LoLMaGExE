@@ -16,6 +16,7 @@
   </br>
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   ![StyledComponents](https://img.shields.io/badge/-StyledComponents-333333?style=for-the-badge&logo=styledcomponents)
+  ![MobX](https://img.shields.io/badge/-MobX-333333?style=for-the-badge&logo=mobx&logoColor=e36114)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux&logoColor=7248b6)
   </br>
   ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
