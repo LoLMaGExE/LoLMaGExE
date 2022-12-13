@@ -26,10 +26,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p style="text-align: center;">
-  <a href="https://www.linkedin.com/in/oleksii-cherevan/">
-    <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=linkedIn&message=Oleksii&color=007ec6">
-  </a>
-  <a href="https://t.me/oleksiicherevan">
+  <a href="https://t.me/oleks1st">
     <img alt="Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=telegram&message=Oleksii&color=007ec6">
   </a>
 
